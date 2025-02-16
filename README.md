@@ -1,4 +1,5 @@
 # Linux Management
+### Assignment 1
 # Account Setup
 In the first step, I have created a Microsoft Azsure account using our university email address. Then, my microsoft azsure account is successfully created and I have recevied $100 worth of credit which helps me to purchase different types of useful learning environment.
 
@@ -116,6 +117,7 @@ cat /etc/apt/sources.list
 ```
 **Observations:** _(This file contains the list of repositories from which APT retrieves packages.)_  
 **Screenshoot**
+![](![Screenshot_13](https://github.com/user-attachments/assets/8a368b43-9862-4108-8239-2f2d2dc07aa8)
 
 
 ### **2. Add a New Repository (Universe Repository)**
@@ -157,5 +159,9 @@ sudo apt-mark unhold zim
 ---
 Depends: python3-xdg, python3:any, python3-gi, gir1.2-gtk-3.0, xdg-utils
 
+
+### Adding other screenshots below
+![](![Screenshot_14](https://github.com/user-attachments/assets/e00e5047-bcfd-4a7c-a8a7-622be2905060)
+![](![Screenshot_14](https://github.com/user-attachments/assets/be2082ef-0689-41eb-99e4-32fc04e7fba5)
 
 
